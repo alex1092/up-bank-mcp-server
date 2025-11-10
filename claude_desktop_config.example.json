@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "up-banking": {
+      "command": "node",
+      "args": ["/Users/alex/code/up-mcp-server/build/index.js"],
+      "env": {
+        "UP_API_TOKEN": "your-up-token"
+      }
+    }
+  }
+}
