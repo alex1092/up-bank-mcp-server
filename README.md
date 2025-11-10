@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides integration with the [Up Banking API](https://developer.up.com.au/). This server allows Claude to interact with your Up banking data, including accounts, transactions, and categories.
 
+<a href="https://glama.ai/mcp/servers/@alex1092/up-bank-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@alex1092/up-bank-mcp-server/badge" alt="Up Banking Server MCP server" />
+</a>
+
 ## Features
 
 - **Account Management**: List all accounts, get account details and balances
